@@ -1,2 +1,3 @@
 salida/*.txt
-node_ modules/
+
+./node_ modules/
